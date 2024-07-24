@@ -1,0 +1,9 @@
+body{
+    color: darkgreen;
+}
+table{border: 1px solid #050101;
+    border-collapse: collapse;}
+    th{border: 1px solid #000000;
+        border-collapse: collapse;}
+        td{border: 1px solid #000000;
+            border-collapse: collapse;}
